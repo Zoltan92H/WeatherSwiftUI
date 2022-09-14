@@ -1,0 +1,16 @@
+/* 
+  Localizable.strings
+  WeatherSwiftUI
+
+  Created by Zoltán Hidegkuti on 2022. 09. 14..
+  
+*/
+
+"minTempLabel" = "Min temperature";
+"maxTempLabel" = "Max temperature";
+"pressureLabel" = "Pressure";
+"feelsLikeLabel" = "Feels like";
+"visibilityLabel" = "Visibility";
+"humidityLabel" = "Humidity";
+"dailyForecast" = "Daily forecast";
+"hourlyForecast" = "Hourly forecast";

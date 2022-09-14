@@ -1,0 +1,16 @@
+/* 
+  Localizable.strings
+  WeatherSwiftUI
+
+  Created by Zoltán Hidegkuti on 2022. 09. 14..
+  
+*/
+
+"minTempLabel" = "Min hőmérséklet";
+"maxTempLabel" = "Max hőmérséklet";
+"pressureLabel" = "Nyomás";
+"feelsLikeLabel" = "Hőérzet";
+"visibilityLabel" = "Látási viszonyok";
+"humidityLabel" = "Páratartalom";
+"dailyForecast" = "Napi előrejelzés";
+"hourlyForecast" = "Óránkénti előrejelzés";
